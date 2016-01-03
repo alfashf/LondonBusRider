@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">London Bus Rider</string>
+    <string name="title_activity_main">London Bus Rider</string>
+    <string name="origin_postcode">Origin Post Code</string>
+    <string name="destination_postcode">Destination Post Code</string>
+    <string name="date_button">Departure Date</string>
+    <string name="time_button">Departure Time</string>
+    <string name="search_button">Search</string>
+    <string name="date_text"></string>
+    <string name="time_text"></string>
+    <string name="select_button">Select</string>
+    <string name="journey">JOURNEY RESULTS</string>
+    <string name="title_activity_leg">LegActivity</string>
+    <string name="notfound_toast">No bus stop found!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

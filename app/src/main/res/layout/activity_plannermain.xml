@@ -1,0 +1,69 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#1a7f90"
+    tools:context="com.example.busplanner.PlannerMainActivity" >
+
+   <EditText 
+       android:id="@+id/origin"
+       android:layout_width="fill_parent"
+       android:layout_height="50dp"
+       android:hint="@string/origin_postcode"
+       android:inputType="textCapWords"
+       android:textColor="#324259" />
+   
+   <EditText 
+       android:id="@+id/destination"
+       android:layout_width="fill_parent"
+       android:layout_height="50dp" 
+       android:layout_below="@+id/origin"
+       android:hint="@string/destination_postcode"
+       android:inputType="textCapWords"
+       android:textColor="#324259" />
+   
+   <Button
+       android:id="@+id/date_button"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_below="@id/destination"
+       android:text="@string/date_button"
+       android:textColor="#102efc"/>
+   
+   <TextView 
+       android:id="@+id/date_text"
+       android:layout_width="wrap_content"
+       android:layout_height="20dp"
+       android:layout_below="@+id/date_button"
+       android:padding ="24dp" />
+   
+    <Button
+       android:id="@+id/time_button"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_below="@+id/date_text"
+       android:text="@string/time_button"
+       android:textColor="#102efc" />
+    
+    <TextView 
+        android:id="@+id/time_text"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_below="@+id/time_button"
+        android:padding ="24dp" />
+    
+    <Button
+       android:id="@+id/search_button"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_below="@id/time_text"
+       android:text="@string/search_button"
+       android:textColor="#102efc" />
+   
+
+       
+</RelativeLayout>

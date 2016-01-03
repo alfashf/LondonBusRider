@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/alfa/AndroidStudioProjects/LondonBusRider/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/alfa/AndroidStudioProjects/LondonBusRider/app/build/intermediates/pre-dexed/debug/classes-a4215ca46caec3da29a2814f9cdb769e4bc7e6fb.jar" />
+    </item>
+    <item
+        jar="/Users/alfa/AndroidStudioProjects/LondonBusRider/app/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/2.0.4/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e546fc8dc1f68c39d41c544e2155c797b558492">
+        <dex dex="/Users/alfa/AndroidStudioProjects/LondonBusRider/app/build/intermediates/pre-dexed/debug/classes-bdb8892d08739458f7fde4cfbcdcfbf8c041a25d.jar" />
+    </item>
+    <item
+        jar="/Applications/adt-bundle-mac-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/alfa/AndroidStudioProjects/LondonBusRider/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-7e8f4032d78bf438eaadc79b9a554ae2c7cc5818.jar" />
+    </item>
+    <item
+        jar="/Users/alfa/AndroidStudioProjects/LondonBusRider/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/alfa/AndroidStudioProjects/LondonBusRider/app/build/intermediates/pre-dexed/debug/classes-8747a4fd875ba8f7eb715d979e557f64b732f4dd.jar" />
+    </item>
+    <item
+        jar="/Users/alfa/AndroidStudioProjects/LondonBusRider/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/alfa/AndroidStudioProjects/LondonBusRider/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-23c309ff6f7e527bb5c85a5b18dcfe26f972b5f2.jar" />
+    </item>
+    <item
+        jar="/Users/alfa/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/alfa/AndroidStudioProjects/LondonBusRider/app/build/intermediates/pre-dexed/debug/library-2.4.0-e817debeca5a96e618dac3dc0980f4d704b3c40c.jar" />
+    </item>
+    <item
+        jar="/Users/alfa/AndroidStudioProjects/LondonBusRider/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/alfa/AndroidStudioProjects/LondonBusRider/app/build/intermediates/pre-dexed/debug/classes-86680e804e865945a5c882456d8b9c6f89cd7c36.jar" />
+    </item>
+
+</items>

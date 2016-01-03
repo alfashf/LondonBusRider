@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+   
+    <!-- Journey label -->
+      <TextView 
+        android:id="@+id/JourneyLabel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:textColor="#324259"/>
+      <TextView 
+        android:id="@+id/Id"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#324259"
+        android:visibility="gone"/>
+      <!-- Departure Time label -->
+      <TextView 
+        android:id="@+id/DepartureTime"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#324259"/>
+      <!-- Arrival Time Label -->
+      <TextView 
+        android:id="@+id/ArrivalTime"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#324259"/>
+      <!-- Duration Label -->
+      <TextView 
+        android:id="@+id/Duration"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#324259"/>
+      <!-- Journey legs label -->
+      <TextView 
+        android:id="@+id/Leg"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+       	android:visibility="gone"
+        android:textColor="#324259"/>
+    
+
+</LinearLayout>
